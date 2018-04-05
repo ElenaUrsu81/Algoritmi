@@ -1,0 +1,5 @@
+c:\users\elena.ursu\documents\visual studio 2013\Projects\NFactorial\NFactorial\bin\Debug\NFactorial.exe.config
+c:\users\elena.ursu\documents\visual studio 2013\Projects\NFactorial\NFactorial\bin\Debug\NFactorial.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\NFactorial\NFactorial\bin\Debug\NFactorial.pdb
+c:\users\elena.ursu\documents\visual studio 2013\Projects\NFactorial\NFactorial\obj\Debug\NFactorial.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\NFactorial\NFactorial\obj\Debug\NFactorial.pdb

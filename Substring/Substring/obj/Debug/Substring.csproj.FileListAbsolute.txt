@@ -1,0 +1,6 @@
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\bin\Debug\Substring.exe.config
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\bin\Debug\Substring.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\bin\Debug\Substring.pdb
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\obj\Debug\Substring.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\Substring\Substring\obj\Debug\Substring.pdb
