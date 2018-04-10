@@ -1,0 +1,6 @@
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\bin\Debug\MatrixApp.exe.config
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\bin\Debug\MatrixApp.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\bin\Debug\MatrixApp.pdb
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\obj\Debug\MatrixApp.csprojResolveAssemblyReference.cache
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\obj\Debug\MatrixApp.exe
+c:\users\elena.ursu\documents\visual studio 2013\Projects\MatrixApp\MatrixApp\obj\Debug\MatrixApp.pdb
