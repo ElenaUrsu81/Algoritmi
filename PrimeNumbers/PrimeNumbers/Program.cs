@@ -34,7 +34,7 @@ namespace PrimeNumbers
             bool flag = Int32.TryParse(Console.ReadLine(), out no);
             List<int> listNo = new List<int>();
             bool isprime;
-            
+            int j;
             if (flag)
             {
                 for (int i = 0; i < no; i++)
@@ -51,9 +51,9 @@ namespace PrimeNumbers
                 {
                     isprime = IsPrime(listNo[i]);
 
-                    if (isprime == true)
+                    if ((isprime == true)&& ((i*i)< no))
                     {
-                        for (int j = i + 1; j < listNo.Count; j++)
+                        for (j = i + 1; j < listNo.Count; j++)
 
                             if (listNo[j] % listNo[i] == 0)
                             {
